@@ -117,7 +117,7 @@ html {
 }
 
 body {
-  font-size: var(--font-size-b1);
+    font-family: 'Montserrat', sans-serif;
   line-height: var(--line-height-b1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -15311,7 +15311,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 .rts-btn {
-  font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   background-color: transparent;
   max-width: max-content;
